@@ -2,6 +2,7 @@
 
 import Button from "@/components/atoms/Button";
 import Input from "@/components/atoms/Input";
+import Dropdown from "@/components/atoms/Dropdown"
 import { useState } from "react";
 
 /**
@@ -21,6 +22,7 @@ export default function ItemRequestsPage() {
   return (
     <div className="max-w-md mx-auto mt-8 flex flex-col items-center gap-6">
       <h2 className="font-bold">Approve Items</h2>
+      <Dropdown>Menu</Dropdown>
 
       <div className="flex flex-col w-full gap-4">
         <Input

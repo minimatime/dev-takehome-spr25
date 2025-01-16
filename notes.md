@@ -2,7 +2,7 @@
 
 <!-- Make sure you fill out this checklist with what you've done before submitting! -->
 
-- [ ] Read the README [please please please]
+- [yuh] Read the README [please please please]
 - [ ] Something cool!
 - [ ] Back-end
   - [ ] Minimum Requirements
@@ -18,7 +18,7 @@
     - [ ] Batch deletes
 - [ ] Front-end
   - [ ] Minimum Requirements
-    - [ ] Dropdown component
+    - [yuh] Dropdown component
     - [ ] Table component
     - [ ] Base page [table with data]
     - [ ] Table dropdown interactivity
@@ -32,3 +32,6 @@
 # Notes
 
 <!-- Notes go here -->
+
+hiii, i crashed out and didn't get to work on this but i fear i am in love w my dropdown
+if y'all need any help w devs, i can def help! 
